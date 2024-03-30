@@ -69,12 +69,13 @@ nav{
     color: black;
     padding: 10px 16px 22px 16px;
 }
-
+/*
 .second-nav a:hover{
     background: black;
     color: green;
     text-decoration: underline;
 }
+*/
 .no-border{
     border-right:none !important;
 }
